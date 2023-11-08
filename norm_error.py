@@ -26,8 +26,7 @@ errors = {
 	"LINE_TOO_LONG": "line too long",
 	"EXP_PARENTHESIS": "Expected parenthesis",
 	"MISSING_IDENTIFIER": "missing type qualifier or identifier in function arguments",
-	"FORBIDDEN_CHAR_NAME": "user defined identifiers should contain only lowercase characters, \
-digits or '_'",
+	"FORBIDDEN_CHAR_NAME": "user defined identifiers should contain only lowercase characters, digits or '_'",
 	"TOO_FEW_TAB": "Missing tabs for indent level",
 	"TOO_MANY_TAB": "Extra tabs for indent level",
 	"SPACE_REPLACE_TAB": "Found space when expecting tab",
